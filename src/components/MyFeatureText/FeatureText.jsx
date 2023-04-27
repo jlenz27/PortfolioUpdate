@@ -7,7 +7,7 @@ const FeatureText = () => {
     <Container id='project'>
         <Zoom>
             <h1>Featured  <span className="green">Projects</span></h1>
-            <p>Below is a list of completed Projects each focusing on using different languages and components.</p>
+            <p>Highlighted below are completed projects that showcase skills in all aspects of full-stack development. </p>
         </Zoom>
        
     </Container>

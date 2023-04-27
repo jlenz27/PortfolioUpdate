@@ -34,7 +34,7 @@ const Services = () => {
           <Card
             Icon={CgWebsite}
             title={"Tools"}
-            disc={<><ul>VS Code</ul><ul>Git</ul><ul>Bash</ul><ul>Figma</ul><ul>Unity</ul></>}
+            disc={<><ul>VS Code</ul><ul>Git</ul><ul>Bash</ul><ul>Figma</ul><ul>Unity</ul><ul>Postman</ul></>}
           />
         </Slide>
       </Cards>

@@ -15,11 +15,9 @@ const ProfComponent = () => {
             Hello <span className="green">I am</span>
           </h2>
           <h1 className="green">John Lenz</h1>
-          <h3>Full Stack Developer</h3>
+          <h3>Full-Stack Developer</h3>
           <p>
-            Born and raised in Denver, I now call San Diego home. It is from my desk in San Diego that I cultivated my passion for coding and software development. Through collaboration with peers and countless hours of independent study,
-            I have developed a solid foundation in full-stack development. While in the Epicodus accelerated program, I had the opportunity to gain expertise in both front-end and back-end technologies such as HTML, CSS, JavaScript, C#, React,
-            Node.js, and MYSql. With this arsinal of knowledge and experience, I am now eager to channel these skills into  real-life application and big-picture innovation.
+          Born and raised in Denver, I now call San Diego home. From my desk in San Diego, I cultivated a passion for coding and software development. Through collaboration with peers and countless hours of independent study, I have established a solid foundation in full-stack development. While in the Epicodus accelerated program, I had the opportunity to gain expertise in both front-end and back-end technologies such as HTML, CSS, JavaScript, C#, React, Node.js, and MYSql. With this arsinal of knowledge and experience, I am now eager to channel these skills into real-life application and big-picture innovation
 
           </p>
           <Social>
@@ -27,7 +25,7 @@ const ProfComponent = () => {
             <div className="social-icons">
               <span>
                 <a href="https://github.com/jlenz27">
-                  <AiOutlineGithub />
+                  <AiOutlineGithub style={{ fontSize: '30px' }}/>
                 </a>
               </span>
               <span>

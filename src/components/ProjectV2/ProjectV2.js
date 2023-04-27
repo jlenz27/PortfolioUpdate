@@ -129,7 +129,7 @@ const ProjectsV2 = (props) => {
                                                   <Typography
                                                       variant="body2"
                                                       sx={{
-                                                          fontSize: '15px'
+                                                          fontSize: '20px'
                                                       }}
                                                   >
                                                       {project.description}
